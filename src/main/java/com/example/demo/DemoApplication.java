@@ -24,4 +24,12 @@ public class DemoApplication {
 		System.out.println(sum + 6476);
 		return "method end";
 	}
+
+    private String testMethod1() {
+	    return "1";
+    }
+
+    private String testMethod2() {
+        return "2";
+    }
 }
