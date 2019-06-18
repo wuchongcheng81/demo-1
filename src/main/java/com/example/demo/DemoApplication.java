@@ -1,5 +1,8 @@
 package com.example.demo;
 
+import com.example.demo.reuse.ClassA;
+import com.example.demo.reuse.ClassB;
+import com.example.demo.reuse.ClassC;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
